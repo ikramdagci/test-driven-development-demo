@@ -32,21 +32,21 @@ Testing individual modules in isolation without dependencies to confirm code wor
 ## Integration Testing
 
 Checking multiple modules toherher to see they work correctly.
-
-    			   /\                          |    Slower -> Faster
-    			  /  \                         |    Less Isolation -> More Isolation
-    		     /    \                        |    Expensive -> Cheap
-    		    /      \                       |
-    		   /   e2e  \                      |
-    		  ____________                     |
-    		 /            \                    |
-    	    /              \                   |
-    	   / Integragration \                  |
-    	  ___________________\                 |
-    	 /                    \                |
-    	/      Unit Test       \               v
-       /________________________\
-
+<pre>
+                                  /\                          |    Slower -> Faster
+                                 /  \                         |    Less Isolation -> More Isolation
+                                /    \                        |    Expensive -> Cheap
+                               /      \                       |
+                              /   e2e  \                      |
+                             /__________\                     |
+                            /            \                    |
+                           /              \                   |
+                          / Integragration \                  |
+                         /__________________\                 |
+                        /                    \                |
+                       /      Unit Test       \               V
+                      /________________________\
+</pre>
 ## JUnit
 
 Unit testing framework in Java world that empowers TDD.
