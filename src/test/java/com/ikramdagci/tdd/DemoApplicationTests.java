@@ -1,4 +1,4 @@
-package com.example.testdrivendevelopmentdemo;
+package com.ikramdagci.tdd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
