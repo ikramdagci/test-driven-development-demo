@@ -8,5 +8,6 @@ import java.math.BigDecimal;
 @Data
 @Builder
 public class OrderDto {
+    private Integer id;
     private BigDecimal totalPrice;
 }

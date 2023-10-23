@@ -2,7 +2,7 @@
 
 Software development approach that you create test cases to validate actual code.
 
-> [tr] TDD, gerçek kodun doğruluğunu teyit etmek için test case'lerinin yazıldığı yazılım geliştirme yaklaşımıdır.
+> [tr] TDD, kodun doğruluğunu teyit etmek için test case'lerinin yazıldığı yazılım geliştirme yaklaşımıdır.
 
 ### 3 Laws of TDD
 
