@@ -1,4 +1,6 @@
-# Test Driven Development Like a Hero
+# Test Driven Development
+
+> This repository has been created by following Hüseyin Babal's TDD training video, titled [[TR] Test Driven Development Like a Hero](https://youtu.be/CcpSBM5cUgU) on YouTube.
 
 Software development approach that you create test cases to validate actual code.
 
